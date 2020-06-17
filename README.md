@@ -1,10 +1,9 @@
-<p align="center"><img src="http://mindscms.com/images/mindscms-logo.png" width="100"></p>
-<h1 align="center">Minds CMS</h1>
+
 
 ## Invoice System
-#### Youtube Course
 
-Learn how to (CRUD) Create/Read/Update/Delete Invoices, plus learn hoe to print it, Export it to PDF file, and how to send an email with attached PDF Invoice file.
+
+Pratctice to how to (CRUD) Create/Read/Update/Delete Invoices, plus learn how to print it, Export it to PDF file, and how to send an email with attached PDF Invoice file.
 
 ##### How to install. 
 
@@ -16,4 +15,4 @@ Learn how to (CRUD) Create/Read/Update/Delete Invoices, plus learn hoe to print 
 
 4- install packages (npm install && npm run dev)
 
-5- Enjoy :)
+5- iyi degerlendirmeler :)
