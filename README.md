@@ -3,7 +3,9 @@
 ## Invoice System
 
 
-Pratctice to how to (CRUD) Create/Read/Update/Delete Invoices, plus learn how to print it, Export it to PDF file, and how to send an email with attached PDF Invoice file.
+ 1-Pratctice to how to (CRUD) Create/Read/Update/Delete Invoices, plus learn how to print it, Export it to PDF file, and how to send an email with attached PDF Invoice file.
+ 2-Practice over multilangauge in laravel and how achieve it .
+
 
 ##### How to install. 
 
